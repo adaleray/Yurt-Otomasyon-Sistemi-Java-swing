@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/flatlaf-demo-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/pdfbox-app-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/postgresql-42.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eray/Desktop/java-jar/preflight-app-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
